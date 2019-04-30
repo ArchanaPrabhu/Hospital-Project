@@ -1,2 +1,4 @@
-# HospitalManagementSystem
-Hospital Management System using C# and MySQL
+Hospital Organizer
+Admin View
+Doctor Portal 
+Staff Portal
